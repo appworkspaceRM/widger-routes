@@ -65,7 +65,8 @@ class MyApp extends StatelessWidget {
 
 ```
 
-foto 1
+![code-snapshot1](https://github.com/appworkspaceRM/widger-routes/assets/135511281/4763dbeb-f1a7-4e0d-8915-64366f6fc873)
+
 
 ```dart
 import 'package:flutter/material.dart';
@@ -100,7 +101,8 @@ class MyHomePage extends StatelessWidget {
 
 ```
 
-foto 2
+![code-snapshot2](https://github.com/appworkspaceRM/widger-routes/assets/135511281/7a37f458-b22b-4ef1-afff-34fab6db5970)
+
 
 ```dart
 import 'package:flutter/material.dart';
@@ -152,7 +154,8 @@ class GalleryPage extends StatelessWidget {
 
 ```
 
-foto 3
+![code-snapshot3](https://github.com/appworkspaceRM/widger-routes/assets/135511281/dec0b5eb-1127-4335-93d2-0da29d89c452)
+
 
 ```dart
 import 'package:flutter/material.dart';
@@ -181,4 +184,4 @@ class PhotoPage extends StatelessWidget {
 
 ```
 
-foto 4
+![Uploading code-snapshot4.png…]()
